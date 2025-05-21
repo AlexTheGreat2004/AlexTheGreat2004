@@ -11,7 +11,7 @@
 <br>
 <a href="https://www.linkedin.com/in/alexander-aseme/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:ao.alzander@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+<a href="https://alexanderaseme.com/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>
 </p>
 
 <br>
@@ -21,7 +21,6 @@
 ### I am a Computer Science Games major at USC
 - I'm interested in graphics programming, game engine programming, simulation, VR, or just anything in the computer graphics space.
 - I have coursework in game programming, game engine programming, graphics programming, and AI programming, but it's all in private repos, so please ask for access!
-- Proper Portfolio Website coming soon...
 
 <br>
 
